@@ -1,1 +1,1 @@
-# Isserium-23
+# This file is mandatory to all projects
